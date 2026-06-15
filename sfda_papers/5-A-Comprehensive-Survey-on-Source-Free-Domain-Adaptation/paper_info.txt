@@ -1,0 +1,6 @@
+1-Feature Based Methods in Domain Adaptation for Object
+Detection: A Review Paper : https://arxiv.org/pdf/2412.17325
+2-introduction_to_DA : extracted from chatbots especially gemini pro 2.5
+3-Unsupervised Domain Adaptation for Nighttime Aerial Tracking: https://arxiv.org/abs/2203.10541
+4-In Search of Lost Online Test-time Adaptation A Survey: https://doi.org/10.48550/arXiv.2310.20199
+5-A-Comprehensive-Survey-on-Source-Free-Domain-Adaptation: https://doi.org/10.48550/arXiv.2302.11803
